@@ -30,3 +30,10 @@ This project demonstrates clean UI, responsive design, and efficient state manag
 - Add authentication
 - Improve UI/UX
 - Add backend integration
+
+
+## 👨‍💻 Author
+
+Priyanshu Singh  
+- GitHub: https://github.com/priyasnhu7  
+- LinkedIn: [Add your link]
