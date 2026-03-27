@@ -36,4 +36,4 @@ This project demonstrates clean UI, responsive design, and efficient state manag
 
 Priyanshu Singh  
 - GitHub: https://github.com/priyasnhu7  
-- LinkedIn: [Add your link]
+- LinkedIn: [https://www.linkedin.com/in/priyanshusinghk/]
